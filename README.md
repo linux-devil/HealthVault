@@ -1,4 +1,4 @@
-# Medical Records Digitizer
+# Health Vault
 
 **Powered by Gemini 3n** - A comprehensive solution for digitizing physical medical records and analyzing prescriptions with AI.
 
